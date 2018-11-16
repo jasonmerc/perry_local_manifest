@@ -7,7 +7,7 @@
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="JasonM45/android_kernel_motorola_msm8937" path="kernel/motorola/msm8937" remote="github"  revision="cm-14.1" />
   <project name="JasonM45/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.1" />
   
